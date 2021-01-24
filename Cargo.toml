@@ -1,0 +1,13 @@
+[package]
+name = "with-str-bytes"
+version = "1.0.0"
+authors = ["Kestrer <kestrer.dev@gmail.com>"]
+edition = "2018"
+description = "Safely manipulate the bytes of a UTF-8 string"
+readme = "README.md"
+repository = "https://github.com/Kestrer/with-str-bytes"
+license = "MIT OR Apache-2.0"
+keywords = ["str", "bytes", "safe", "UTF-8", "ASCII"]
+categories = ["encoding", "no-std", "text-processing"]
+
+[dependencies]
