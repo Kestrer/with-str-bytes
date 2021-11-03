@@ -2,7 +2,7 @@
 name = "with-str-bytes"
 version = "1.0.0"
 authors = ["Kestrer <kestrer.dev@gmail.com>"]
-edition = "2018"
+edition = "2021"
 description = "Safely manipulate the bytes of a UTF-8 string"
 readme = "README.md"
 repository = "https://github.com/Kestrer/with-str-bytes"
